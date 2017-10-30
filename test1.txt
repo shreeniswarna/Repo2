@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 36BB-1412
+
+ Directory of C:\Users\v-shreer\Desktop\GS
+
+30-Oct-17  10:40 AM    <DIR>          .
+30-Oct-17  10:40 AM    <DIR>          ..
+30-Oct-17  10:40 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  213,358,923,776 bytes free
